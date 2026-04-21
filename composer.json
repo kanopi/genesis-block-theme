@@ -1,0 +1,9 @@
+{
+    "name": "kanopi/genesis-block-theme",
+    "description": "A beautifully-simple yet powerful WordPress theme that integrates perfectly with the block editor and the Genesis Blocks plugin.",
+    "type": "wordpress-theme",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "composer/installers": "^1.0 || ^2.0"
+    }
+}
